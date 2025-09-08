@@ -10,6 +10,7 @@ The task is to build a simulated network consisting of personal computers and a 
 This project is confined to a simulated environment using Cisco Packet Tracer. The scope includes: • Creating a single, flat LAN topology (one broadcast domain). • Statically assigning IPv4 addresses to end devices. • Using Simulation Mode to observe the packet flow for ARP and ICMP protocols. • Verifying the dynamic population of the ARP cache on a host machine. The project does not cover routing, inter-VLAN communication, or ARP processes in more complex network architectures.
 
 >Required Components to Develop Solution:
+
 Software
 
 • Simulation Environment: Cisco Packet Tracer (Version 8.2.1 or newer recommended) • Operating System: Windows, macOS, or Linux Hardware (Physical)
